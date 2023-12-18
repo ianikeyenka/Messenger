@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="welcome_back">С возвращением!</string>
+    <string name="login_to_continue">Войдите, чтобы продолжить</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="create_new_account">Создать новую учетную запись</string>
+    <string name="add_image">Фото</string>
+    <string name="name">Имя</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="select_user">Выберите пользователя</string>
+    <string name="type_a_message">Введите сообщение</string>
+    <string name="online">Онлайн</string>
+</resources>
